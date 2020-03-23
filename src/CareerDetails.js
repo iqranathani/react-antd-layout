@@ -9,6 +9,9 @@ const CareerDetails = ({ player, visible, onClose }) => {
 
     return (
         <Drawer
+
+
+        
             destroyOnClose
             title={player}
             visible={visible}
