@@ -69,7 +69,7 @@ function App() {
               <Breadcrumb style={{ margin: '16px 0' }}>
                 <Breadcrumb.Item>Dashboard</Breadcrumb.Item>
               </Breadcrumb>
-              <div style={{ background: '#fff', padding: 24, minHeight: 750 }}>
+              <div style={{ background: '#fff', padding: 24, minHeight: 990 }}>
                 <Cricketer name='Virat Kholi' team='IND' avatarSrc='./vk.jpg'>
                     <ODICareer matches='239'>
                       <Batting runs='11,520' score='183' />
